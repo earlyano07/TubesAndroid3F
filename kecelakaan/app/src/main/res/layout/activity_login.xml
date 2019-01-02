@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.windows10.kecelakaan.Login">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="0dp">
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="90dp"
+            android:gravity="center"
+            android:textSize="10pt"
+            android:textStyle="bold"
+            android:hint="JADILAH PELOPOR KESELAMATAN"/>
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text1"
+            android:layout_marginLeft="90dp"
+            android:src="@drawable/mobilpol"/>
+
+        <EditText
+            android:id="@+id/login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="250dp"
+            android:layout_marginLeft="155dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:editable="false"
+            android:hint="  LOGIN  "/>
+
+        <EditText
+            android:id="@+id/etUsername"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="290dp"
+            android:layout_marginLeft="65dp"
+            android:gravity="center"
+            android:hint="username"/>
+
+        <EditText
+            android:id="@+id/etPassword"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="65dp"
+            android:layout_below="@+id/etUsername"
+            android:gravity="center"
+            android:inputType="textPassword"
+            android:hint="password"/>
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="65dp"
+            android:layout_below="@+id/etPassword"
+            android:background="@color/colorPrimaryDark"
+            android:textColor="#ffffff"
+            android:text="login"/>
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btnLogin"
+            android:layout_marginTop="65dp"
+            android:gravity="center"
+            android:textSize="7pt"
+            android:textColor="@color/colorPrimaryDark"
+            android:text="Tidak punya akun?"/>
+
+        <TextView
+            android:id="@+id/regis"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btnLogin"
+            android:layout_marginLeft="220dp"
+            android:layout_marginTop="65dp"
+            android:textSize="7pt"
+            android:textColor="@color/colorPrimaryDark"
+            android:textStyle="bold"
+            android:text="Buat Akun"/>
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

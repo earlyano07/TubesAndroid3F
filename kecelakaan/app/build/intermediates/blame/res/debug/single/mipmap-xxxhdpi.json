@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Kuliah\\Semester5\\Pemrog Mobile (Android)\\Project\\kecelakaan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\Kuliah\\Semester5\\Pemrog Mobile (Android)\\Project\\kecelakaan\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\earlyano\\AndroidStudioProjects\\kecelakaan\\kecelakaan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\earlyano\\AndroidStudioProjects\\kecelakaan\\kecelakaan\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Semester5\\Pemrog Mobile (Android)\\Project\\kecelakaan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "E:\\Kuliah\\Semester5\\Pemrog Mobile (Android)\\Project\\kecelakaan\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\earlyano\\AndroidStudioProjects\\kecelakaan\\kecelakaan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\earlyano\\AndroidStudioProjects\\kecelakaan\\kecelakaan\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

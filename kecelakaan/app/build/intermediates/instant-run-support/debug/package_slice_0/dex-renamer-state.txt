@@ -1,0 +1,4 @@
+#Wed Jan 17 00:55:04 ICT 2018
+base.0=E\:\\Kuliah\\Semester5\\Pemrog Mobile (Android)\\Project\\kecelakaan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=E\:\\Kuliah\\Semester5\\Pemrog Mobile (Android)\\Project\\kecelakaan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex

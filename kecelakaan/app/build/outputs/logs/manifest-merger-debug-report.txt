@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.hardware.carema
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:6:5-63
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:6:22-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:9:22-77
+application
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:11:5-33:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\80993e8e7a59ed37c5debaaf9612dc78c354b950\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\255d916eb8a9776c57452cf127b741f3af23e5ed\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\71fe928835dd020671adf86f526ed0fef0b4a0e1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\6b85490d3fe5c56229f4bae1537fd5815446e4e2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\77f300efe7e3defab9c28855212c77b08745d3e4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\2da29afc889cdd5877f4a89eaa08f10b2b85a447\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\44dcf2b7b0b9eb6654b8bf8b7a63ef6dfe57ab4a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\earlyano\.android\build-cache\8ea22c120629999beac05714b3d3fe8f79a6c9bb\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\c0ace9a49c672799e55923857188eabaebfcfe53\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\c7d71c1a8b58b2c5cca139a55d7267a87b047859\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:16:9-35
+	android:roundIcon
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:15:9-54
+	android:allowBackup
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.windows10.kecelakaan.Login
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:18:19-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.windows10.kecelakaan.InsertKecelakaan
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:25:9-54
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:25:19-51
+activity#com.example.windows10.kecelakaan.DetailKecelakaan
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:26:9-54
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:26:19-51
+activity#com.example.windows10.kecelakaan.MainActivity
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.example.windows10.kecelakaan.Register
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:28:9-46
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:28:19-43
+activity#com.example.windows10.kecelakaan.Menu
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:29:9-42
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:29:19-39
+activity#com.example.windows10.kecelakaan.Profile
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:30:9-45
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:30:19-42
+activity#com.example.windows10.kecelakaan.History
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:31:9-45
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:31:19-42
+activity#com.example.windows10.kecelakaan.KelolaKecelakaan
+ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:32:9-63
+	android:name
+		ADDED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml:32:19-51
+uses-sdk
+INJECTED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\80993e8e7a59ed37c5debaaf9612dc78c354b950\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\255d916eb8a9776c57452cf127b741f3af23e5ed\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\71fe928835dd020671adf86f526ed0fef0b4a0e1\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\6b85490d3fe5c56229f4bae1537fd5815446e4e2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\77f300efe7e3defab9c28855212c77b08745d3e4\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\2da29afc889cdd5877f4a89eaa08f10b2b85a447\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\44dcf2b7b0b9eb6654b8bf8b7a63ef6dfe57ab4a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\earlyano\.android\build-cache\8ea22c120629999beac05714b3d3fe8f79a6c9bb\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\21503a3fcc159d6189f096f6afb5f12e3c1dd905\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\c0ace9a49c672799e55923857188eabaebfcfe53\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\c7d71c1a8b58b2c5cca139a55d7267a87b047859\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\80993e8e7a59ed37c5debaaf9612dc78c354b950\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\80993e8e7a59ed37c5debaaf9612dc78c354b950\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\255d916eb8a9776c57452cf127b741f3af23e5ed\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\71fe928835dd020671adf86f526ed0fef0b4a0e1\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\6b85490d3fe5c56229f4bae1537fd5815446e4e2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\77f300efe7e3defab9c28855212c77b08745d3e4\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\2da29afc889cdd5877f4a89eaa08f10b2b85a447\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\44dcf2b7b0b9eb6654b8bf8b7a63ef6dfe57ab4a\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\21503a3fcc159d6189f096f6afb5f12e3c1dd905\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\c0ace9a49c672799e55923857188eabaebfcfe53\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\c7d71c1a8b58b2c5cca139a55d7267a87b047859\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\80993e8e7a59ed37c5debaaf9612dc78c354b950\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\earlyano\.android\build-cache\80993e8e7a59ed37c5debaaf9612dc78c354b950\output\AndroidManifest.xml:26:9-47

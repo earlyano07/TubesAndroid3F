@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.android\build-cache\c7d71c1a8b58b2c5cca139a55d7267a87b047859\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\classes_695891705258295d6ddfba3f77df12242c128715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\okio-1.6.0_f9f5badfb0485e31fb95b811202b98dda8500c9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.android\build-cache\44dcf2b7b0b9eb6654b8bf8b7a63ef6dfe57ab4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\classes_18d720072fcdcb11634bf9847204eb541aeeff27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.android\build-cache\77f300efe7e3defab9c28855212c77b08745d3e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\classes_fed39031ad54be283336dece03b7cfc58a58eebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\gson-2.6.2_7cb0fbdbae2b8a47cebe5ff2f73c6bc1277a3885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.android\build-cache\c0ace9a49c672799e55923857188eabaebfcfe53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\classes_a3f7556fe02ed587d624a5eb2d77e47587d0fd53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_6adb9f3eb45c7a2358282f5c2366de3c56efd3f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_54c0ce2e365a7d48ea7f3b42d43c26fb2654d42f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_f7b7c6efe964fe66df2a25c11d32a385c7a13ba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.android\build-cache\21503a3fcc159d6189f096f6afb5f12e3c1dd905\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\classes_66425a9644c8ee22015dc68a87b597f47650e39e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.android\build-cache\80993e8e7a59ed37c5debaaf9612dc78c354b950\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\classes_eea16257ded803d08b8a1c8035bd7248b4e8ad08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.android\build-cache\255d916eb8a9776c57452cf127b741f3af23e5ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\classes_ab8ced54fe8681de01654948aad69e439719c6eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_f0ffbaa3dd2f85ecb69970cc08ad449265cb4892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.android\build-cache\2da29afc889cdd5877f4a89eaa08f10b2b85a447\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\classes_0a209e5f225d97b78a26d0a86a1817251f2f44ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_b46ee5d44b614d993decb9ad95685131f228ab5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\glide-3.7.0_c69dab920528a7ed5a7463d80d212e7332472d8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.android\build-cache\8ea22c120629999beac05714b3d3fe8f79a6c9bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\classes_6ddcd7c4c1a5d4189b03d7608eb8173321ede6e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.android\build-cache\71fe928835dd020671adf86f526ed0fef0b4a0e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\classes_af9f5e9b404e4a806613b1fb9803b928d61251b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_7d5ab9597bbcafd5ea07a285a22880cb2d2263a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\earlyano\.android\build-cache\6b85490d3fe5c56229f4bae1537fd5815446e4e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\earlyano\AndroidStudioProjects\kecelakaan\kecelakaan\app\build\intermediates\pre-dexed\debug\classes_16d62594eaf25f35b7d98238fe6acf859357939c.jar" />
+    </item>
+
+</items>
